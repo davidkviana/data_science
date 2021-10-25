@@ -16,3 +16,9 @@ Além das ferramentas python, são necessárias as tecnologias web para criar ap
 Minha experiência em análise e desenvolvimento de sistemas é de nível pleno ou sênior, contudo, busco uma oportunidade de crescer na área de Ciência de Dados.
 
 Meus dados pessoais estão no meu currículo e estou a disposição para responder a quaisquer dúvidas sobre minha formação, capacidade técnica e pretenção salarial.
+
+Linkedin:
+https://www.linkedin.com/in/davidkviana/
+
+Lattes:
+http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4251174D7
